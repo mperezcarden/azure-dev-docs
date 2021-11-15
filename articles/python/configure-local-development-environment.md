@@ -53,7 +53,7 @@ Notes:
 ### Verify components
 
 1. Open a terminal or command prompt.
-1. Verify your Python version by running the command, `python --version`.
+1. Verify your Python version by running the command, `python --version` (py --version for Python 3.10.0)
 1. Verify the Azure CLI version by running, `az --version`.
 1. Verify VS Code installation:
     1. Run `code .` to open VS Code to the current folder.
